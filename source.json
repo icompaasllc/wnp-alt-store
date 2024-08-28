@@ -25,7 +25,8 @@
             ],
             "versions": [
                 {
-                    "version": "1.0.0",
+                    "version": "1.0",
+                    "buildVersion": "39",
                     "date": "2024-08-28T09:00:00-08:00",
                     "size": 10814661,
                     "downloadURL": "https://github.com/icompaasllc/wnp-alt-store/releases/download/v1.0.0/WannaPractice.ipa",
