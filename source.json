@@ -1,9 +1,8 @@
 {
-    "name": "WannaPractice App",
+    "name": "WannaPractice Apps",
     "subtitle": "Exam Preperation Tool for Cybersecurity Certifications.",
     "description": "WannaPractice Exam Prep Tool for Cybersecurity Certifications like CCSP, CISM, SSCP, CISA, CRISC and CISSP-2024.",
-    "iconURL": "https://app.wannapractice.com/i/logo/wnp-logo-black.svg",
-    "headerURL": "https://app.wannapractice.com/i/marketing/holding-phone-app.png",
+    "iconURL": "https://raw.githubusercontent.com/icompaasllc/wnp-alt-store/master/assets/images/Icon-App-83.5x83.5@2x.png",
     "website": "https://www.wannapractice.com/",
     "tintColor": "#4185A9",
     "featuredApps": [
