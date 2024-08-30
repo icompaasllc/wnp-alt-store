@@ -1,8 +1,9 @@
 {
-    "name": "WannaPractice Apps",
-    "subtitle": "Exam Preperation Tool for Cybersecurity Certifications.",
+    "name": "WannaPractice AltStore Source",
+    "subtitle": "Hosting WannaPractice App; Exam Preperation Tool for Cybersecurity Certifications.",
     "description": "WannaPractice Exam Prep Tool for Cybersecurity Certifications like CCSP, CISM, SSCP, CISA, CRISC and CISSP-2024.",
     "iconURL": "https://raw.githubusercontent.com/icompaasllc/wnp-alt-store/master/assets/images/Icon-App-83.5x83.5@2x.png",
+    "headerURL": "https://raw.githubusercontent.com/icompaasllc/wnp-alt-store/master/assets/images/wnp-header-altstore.png",
     "website": "https://www.wannapractice.com/",
     "tintColor": "#4185A9",
     "featuredApps": [
@@ -14,7 +15,7 @@
             "bundleIdentifier": "com.iCompaas.WannaPractice",
             "developerName": "iVox Learning, Inc",
             "subtitle": "Exam Preperation Tool for Cybersecurity Certifications.",
-            "localizedDescription": "WannaPractice Exam Prep Tool for Cybersecurity Certifications like CCSP, CISM, SSCP, CISA, CRISC and CISSP-2024.",
+            "localizedDescription": "WannaPractice Exam Prep Tool for Cybersecurity Certifications like CCSP, CISM, SSCP, CISA, CRISC and CISSP-2024. Ben Mallisow authored all questions, former ISC2 Senior Instructor, and author of official questions for the CCSP and CC certifications",
             "iconURL": "https://raw.githubusercontent.com/icompaasllc/wnp-alt-store/master/assets/images/Icon-App-83.5x83.5@2x.png",
             "tintColor": "#3792B9",
             "screenshots": [
